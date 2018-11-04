@@ -1,0 +1,12 @@
+Package: SquareNo
+Type: Package
+Title: Finds the square root of a number
+Version: 0.1.9
+Author: Chris Ahn [aut, cre]
+Maintainer: Chris Ahn <christopher.ahn@uzh.ch>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL (>=3.0)
+Encoding: UTF-8
+LazyData: true
+Depends: R (3.5.1)
